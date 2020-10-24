@@ -1,0 +1,16 @@
+{
+"companyName": "2D",
+"productName": "南北越大戰",
+"productVersion": "0.1",
+"dataUrl": "HZ_2D.data.unityweb",
+"wasmCodeUrl": "HZ_2D.wasm.code.unityweb",
+"wasmFrameworkUrl": "HZ_2D.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#803A1F",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
